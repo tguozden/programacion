@@ -44,7 +44,7 @@ Los conjuntos no permiten duplicados y son ideales para operaciones matemáticas
 
     Usando A y B del ejercicio 1, imprime los elementos que están en A o B pero no en ambos.
 
-##Ejercicios con Diccionarios
+## Ejercicios con Diccionarios
 
 Los diccionarios almacenan pares clave-valor.
 
@@ -96,10 +96,6 @@ Los diccionarios almacenan pares clave-valor.
 
     Convierte el diccionario productos en una lista de tuplas (clave, valor) y ordénala alfabéticamente por nombre.
 
-10. Diccionario de conteo con _.items()_
-
-    Dada la lista ["a", "b", "a", "c", "b", "a"], crea un diccionario que cuente las ocurrencias de cada letra usando recorriendo el diccionario y usando _.items()_ para imprimir los resultados.
-
 
 
 ## Ejercicios Integrados
@@ -121,6 +117,10 @@ Combina múltiples estructuras.
 3. Intersección de valores únicos
 
     Dadas dos listas [1, 2, 2, 3, 4] y [3, 4, 5, 6], imprime los valores que están en ambas listas (sin duplicados). Usa conjuntos.
+
+4. Diccionario de conteo con _.items()_
+
+    Dada la lista ["a", "b", "a", "c", "b", "a"], crea un diccionario que cuente las ocurrencias de cada letra usando recorriendo el diccionario y usando _.items()_ para imprimir los resultados.
 
 Solución ejemplo (Eje 4 de diccionarios)
 ```python
