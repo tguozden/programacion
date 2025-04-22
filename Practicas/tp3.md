@@ -57,15 +57,15 @@ Los diccionarios almacenan pares clave-valor.
 2. Recorrer diccionario
 
     Itera sobre el diccionario persona e imprime cada clave y su valor con el formato:
-    python
-
+    ```python
     "clave: nombre, valor: Carlos"
+    ```
+
 
 3. Fusión de diccionarios
 
     Combina dos diccionarios:
     ```python
-
     dic1 = {"a": 1, "b": 2}
     dic2 = {"b": 3, "c": 4}
     ```
@@ -123,7 +123,7 @@ Combina múltiples estructuras.
     Dadas dos listas [1, 2, 2, 3, 4] y [3, 4, 5, 6], imprime los valores que están en ambas listas (sin duplicados). Usa conjuntos.
 
 Solución ejemplo (Eje 4 de diccionarios)
-```python
+    python
 lista = ["manzana", "banana", "manzana", "pera", "banana"]
 frecuencias = {}
 
