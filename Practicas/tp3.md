@@ -120,10 +120,10 @@ Combina múltiples estructuras.
 
 4. Diccionario de conteo con _.items()_
 
-    Dada la lista ["a", "b", "a", "c", "b", "a"], crea un diccionario que cuente las ocurrencias de cada letra usando recorriendo el diccionario y usando _.items()_ para imprimir los resultados.
+    Dada la lista ["a", "b", "a", "c", "b", "a"], crea un diccionario que cuente las ocurrencias de cada letra; recorriendo el diccionario y usando _.items()_ para imprimir los resultados.
 
 Solución ejemplo (Eje 4 de diccionarios)
-    python
+```python
 lista = ["manzana", "banana", "manzana", "pera", "banana"]
 frecuencias = {}
 
