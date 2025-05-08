@@ -67,4 +67,14 @@ Crear una función que devuelva información sobre una tupla (longitud, tipos de
 ### 12. Función integradora
 Implementar una función que convierta entre diferentes estructuras de datos (lista, tupla, conjunto, diccionario). 
 
+### 13. Función chequea paréntesis
+Implementar función que pida un string y que devuelva bool 
+evaluando que todos los paréntesis abiertos se hayan cerrado
+
+```python
+#ejemplo:
+bienparentado( '((pp)' ) # False
+bienparentado( ')(' ) # False
+bienparentado( '()' ) # True
+```
 ---
