@@ -4,7 +4,7 @@
 2. Cree un vector nulo de tamaño 10
 3. ¿Cómo encontrar el tamaño en memoria de un array?
 4. ¿Cómo obtener la documentación de la función add de numpy desde la línea de comandos?
-4. Cree un vector con valores ordenador del 10 al 49
+4. Cree un vector con valores ordenados del 10 al 49
 5. Invierte el orden un vector
 6. Cree una matriz 3x3 con valores que vayan del 0 al 8
 7. Encuentre los índices de los elementos distintos de cero en [1,2,0,0,4,0]
