@@ -1,6 +1,8 @@
 ## Práctica 9: Numpy
 
-### Repetir ejercicio 4 práctica 6, usando *np.genfromtxt()*
+Péguenle una mirada al [tutorial principiantes](https://numpy.org/doc/stable/user/absolute_beginners.html)
+
+### Repetir ejercicio 4 práctica 6, usando *np.genfromtxt(archivo, delimiter=',')*
 Quite la última columna de NaNs.
 Observe la cantidad de datos y la estructura de la matriz: cantidad de filas y columnas. ¿Cuál es el data type con que se cargó? Convierta a int32.
 
@@ -8,11 +10,6 @@ Grafique el histograma de los datos con *plt.hist* de matplotlib.
 
 Calcule el promedio de cada columna utilizando *np.mean(mat,axis=0)*
 Calcule también el mínimo, máximo, la mediana y la moda de cada columna.
-
-Calcule nuevamente el histograma con la suma de los datos agrupados de a 5 de la siguiente manera: reestructure la matriz para que tenga 5 columnas y sume esos 5 datos de cada fila.
-
-
-
 
 
 ### Ejercicios Intro teleco:
