@@ -51,4 +51,8 @@ Pasos a resolver para aproximar al problema:
 ----------------
 ------------
 
-### 7) Otras propuestas?
+### Otras propuestas?
+
+### 7) Datos de objetos espaciales
+Usando APIs para consultar sitios como por ejemplo la NASA, uno puede obtener la posición en tiempo real de la ISS (estación espacial internacional).
+En este trabajo podemos usar estos datos y los datos astronómicos de la conocida librería *pyephem*
