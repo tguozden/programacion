@@ -44,7 +44,9 @@ Juego de la viborita, con tamaño constante condiciones de contorno periódicas 
 ### 6) Juegos: buscaminas
 A diferencia de los anteriores en este caso el juego es estático, y se espera la acción del jugador para continuar. Dificultad media/alta
 
-
+Pasos a resolver para aproximar al problema:
+- graficar una "pared de cerámicos"
+- clickear en uno de los cerámicos y que cambie de color
 
 ----------------
 ------------
