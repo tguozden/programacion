@@ -17,7 +17,7 @@ from datetime import datetime
 fecha = datetime(1970,1,1)
 print(fecha.timestamp())
 ```
-¿Por qué dA distinto de cero?
+¿Por qué da distinto de cero?
 
 ## 4
 Importe los datos del archivo *tp8_lista.csv*, conviertiendo los datos de la primera columna a formato fecha
